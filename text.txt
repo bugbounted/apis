@@ -1,0 +1,180 @@
+https://text2img.info-0ca.workers.dev/?text=a cat walking on street with girl in dark night
+
+styles:
+
+cute-creature-generator
+fantasy-world-generator
+cyberpunk-generator
+anime-portrait-generator
+old-style-generator
+renaissance-painting-generator
+abstract-painting-generator
+impressionism-painting-generator
+surreal-graphics-generator
+3d-objects-generator
+origami-3d-generator
+hologram-3d-generator
+3d-character-generator
+watercolor-painting-generator
+pop-art-generator
+contemporary-architecture-generator
+future-architecture-generator
+watercolor-architecture-generator
+fantasy-character-generator
+steampunk-generator
+logo-generator
+pixel-art-generator
+street-art-generator
+surreal-portrait-generator
+anime-world-generator
+fantasy-portrait-generator
+comics-portrait-generator
+cyberpunk-portrait-generator
+neo-noir-generator
+pixel-world-generator
+manga-panel-genarator
+3d-cartoon-generator
+fantasy-map-generator
+cyber-beast-generator
+dystopian-landscape-generator
+ocean-life-generator
+space-world-generator
+comics-superhero-generator
+anime-superhero-generator
+prophetic-vision-generator
+grotesque-art-generator
+tribal-art-generator
+mysticism-art-generator
+urban-fashion-generator
+children-book-generator
+minimalistic-art-generator
+art-deco-generator
+haunted-portrait-generator
+steampunk-landscape-generator
+art-nouveau-generator
+baroque-art-generator
+gothic-art-generator
+cubist-art-generator
+romantic-art-generator
+photorealistic-portrait-generator
+chibi-character-generator
+dreamscape-generator
+mecha-suit-generator
+abstract-expressionism-generator
+supernatural-character-generator
+gladiator-arena-generator
+solar-system-generator
+alien-flora-generator
+renaissance-fresco-generator
+depths-sea-generator
+fairy-tale-art-generator
+mythic-creature-generator
+post-apocalyptic-generator
+ancient-egyptian-generator
+urban-graffiti-generator
+wild-west-generator
+old-masters-generator
+origami-paper-generator
+carnival-scene-generator
+retro-game-generator
+action-figure-generator
+greek-mythology-generator
+underground-city-generator
+film-poster-generator
+spaceship-blueprint-generator
+zombie-apocalypse-generator
+concrete-jungle-generator
+bioluminescent-life-generator
+ice-world-generator
+bauhaus-design-generator
+intergalactic-battle-generator
+atlantis-world-generator
+samurai-art-generator
+ice-sculpture-generator
+opera-costume-generator
+ancient-hieroglyph-generator
+solar-flare-generator
+kawaii-emoji-generator
+psychedelic-poster-generator
+witchcraft-symbol-generator
+alien-civilization-generator
+cave-painting-generator
+mechanical-anatomy-generator
+surrealist-sculpture-generator
+stained-glass-generator
+gothic-literature-generator
+colonial-portrait-generator
+unreal-cityscape-generator
+clockwork-toy-generator
+marionette-design-generator
+post-impressionist-painting-generator
+tropical-paradise-generator
+elven-world-generator
+zentangle-design-generator
+mars-life-generator
+brutalist-architecture-generator
+political-satire-generator
+treehouse-design-generator
+ancient-mayan-art-generator
+decoupage-art-generator
+terrarium-world-generator
+dystopian-cyberpunk-generator
+film-collage-generator
+zodiac-design-generator
+robot-battle-generator
+playing-card-generator
+gothic-architecture-generator
+
+API Options
+
+
+grid_size
+Pass a string, either "1" or "2"
+“2” is the default, which returns a 2x2 grid with 4 images.
+Pass “1” to only receive 1 image.
+
+width, height
+Pass a string, eg "256" or "768" (default 512)
+Use values between 128 and 1536.
+Note: values above approximately 700 or below 256 may produce strange outputs.
+
+image_generator_version
+Pass a string, either "standard" or "hd" (default standard)
+
+negative_prompt
+Pass a string to indicate what you want to be removed from the image
+Can be used to enhance image quality and details.
+Example negative prompts: bad anatomy,bad proportions, blurry, cloned face, cropped, deformed, dehydrated, disfigured, duplicate, error, extra arms, extra fingers, extra legs, extra limbs, fused fingers, gross proportions, jpeg artifacts, long neck, low quality, lowres, malformed limbs, missing arms, missing legs, morbid, mutated hands, mutation, mutilated, out of frame, poorly drawn face, poorly drawn hands, signature, text, too many fingers, ugly, username, watermark, worst quality.
+
+https://enhance.info-0ca.workers.dev/?url=https://api.deepai.org/job-view-file/5454707d-8cbd-4736-b7fb-fb4d1bb2d200/outputs/output.jpg
+
+https://image-editor.info-0ca.workers.dev/?image=https://api.deepai.org/job-view-file/5454707d-8cbd-4736-b7fb-fb4d1bb2d200/outputs/output.jpg&text=doomsday%20is%20today
+
+gender: male, female
+age: 0—80
+ethnicity: european, african, west_asian, south_asian, east_asian, southeast_asian, latin_american
+resolution: 128—1024
+
+https://faces.info-0ca.workers.dev/?gender=male&age=25&ethnicity=european&resolution=128
+
+https://faces.info-0ca.workers.dev/?gender=male&age=6&ethnicity=european&resolution=1024
+
+https://vm.info-0ca.workers.dev/
+
+https://drinkwater.ai/#/sprites/examples
+
+https://dashboard.cerebrium.ai/projects/p-e878446b/pre-built-models
+
+https://demo.text-mining.ir/
+
+https://colorizer.info-0ca.workers.dev/?imageurl=https://photoglory.net/img/content/how-to-colorize-old-photos-before.jpg
+
+https://hello-world-patient-mouse-a35e.info-0ca.workers.dev/
+
+http://adexo.ir/
+
+https://vast.info-0ca.workers.dev/
+
+https://vast2.info-0ca.workers.dev/
+
+https://yewtuber.netlify.app/latest_version?id=CZLcCeH2dHU&itag=22&hmac_key=1048a63f51af3362f906c932c38e0844b319664f
